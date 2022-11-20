@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🌱 I’m continually learning - aim to make every day a 'school' day :)
+- ⚡ Fun fact: 
 <!--
 **AlanDavidBest/AlanDavidBest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
