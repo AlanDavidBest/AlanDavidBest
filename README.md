@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m continually learning - aim to make every day a 'school' day :)
-- ⚡ Fun fact: 
+- 🌱 I’m continually learning - I try to make every day a 'school' day
+- ⚡ Fun fact - I started my professional career writing software for IBM A-series mainframes
 <!--
 **AlanDavidBest/AlanDavidBest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
